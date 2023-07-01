@@ -22,15 +22,18 @@ This Python script automates the organization of your Downloads folder by catego
 
 ## Example
 Before running the script:
+```
 Downloads/
 ├── file1.pdf
 ├── image.jpg
 ├── document.docx
 ├── script.py
 └── video.mp4
+```
 
 After running the script:
 
+```
 Downloads/
 ├── Documents/
 │ ├── file1.pdf
@@ -41,6 +44,6 @@ Downloads/
 │ └── script.py
 └── Videos/
   └── video.mp4
-
+```
 
 Happy organizing! 🎉🗂️
