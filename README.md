@@ -40,9 +40,7 @@ Downloads/
 ├── Programming Files/
 │ └── script.py
 └── Videos/
-└── video.mp4
+  └── video.mp4
 
 
 Happy organizing! 🎉🗂️
-
-
